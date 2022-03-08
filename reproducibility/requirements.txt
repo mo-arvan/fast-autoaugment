@@ -1,0 +1,16 @@
+GitPython==3.1.14
+pretrainedmodels
+tqdm
+tensorboardx
+sklearn
+ray==0.8.6
+matplotlib
+psutil
+requests
+
+git+https://github.com/wbaek/theconf@de32022f8c0651a043dc812d17194cdfd62066e8
+git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git@08f7d5e5ac2f68f8c043b67d86b016df1bec34d8
+git+https://github.com/ildoonet/pystopwatch2.git
+hyperopt==0.2.7
+
+
